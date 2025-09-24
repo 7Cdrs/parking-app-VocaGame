@@ -1,0 +1,7 @@
+create_parking_lot 3
+park B-1234-XYZ
+park D-9999-ABC
+status
+leave B-1234-XYZ 4
+park F-5555-FF
+status
